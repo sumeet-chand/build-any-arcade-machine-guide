@@ -1,7 +1,7 @@
 
 # ARCADE MACHINE SETUP GUIDE
 
-By: Sumeet Singh @ sumeet-singh.com
+By: Sumeet Chand
 
 Updated: August 2024
 
